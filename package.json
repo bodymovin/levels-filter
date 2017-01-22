@@ -1,0 +1,22 @@
+{
+  "name": "levels-filter",
+  "version": "1.0.0",
+  "description": "A function factory for creating a levels effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodymovin/levels-filter.git"
+  },
+  "author": "Hernan Torrisi <hernantorrisi@gmail.com> (http://codepen.io/airnan/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodymovin/levels-filter/issues"
+  },
+  "homepage": "https://github.com/bodymovin/levels-filter#readme",
+  "dependencies": {
+    "levels-to-table": "^1.0.0"
+  }
+}
